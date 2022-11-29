@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=k-okawa&count_private=true&show_icons=true)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=k-okawa&count_private=true&show_icons=true&theme=dark)
