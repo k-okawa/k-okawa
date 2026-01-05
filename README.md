@@ -12,3 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Kyohei Okawa | Unity Engineer
+
+Unity specialized developer exploring the world of Rust and C++ game frameworks.
+
+- Unity is my main tool, but I'm currently fascinated by [Bevy](https://github.com/bevyengine/bevy) and [Axmol](https://github.com/axmolengine/axmol).
+- Learning Rust through game development.
+- Recently launched [BigRiverLab](https://www.bigriverlab.com/), a blog where you can play games directly in the browser, built with [Zola](https://github.com/getzola/zola).
+
+### Beyond Coding
+I'm a big fan of Onsen (Japanese Hot Springs). I love staying at various Onsen Ryokans—I make it a point to go about once a month to recharge and relax.
+
+---
+
+[X (Twitter)](https://x.com/kyonpeis)
